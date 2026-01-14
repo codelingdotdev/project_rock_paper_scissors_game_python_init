@@ -9,7 +9,7 @@ To use this repo you need to create a copy of it in your own GitHub account and 
 Follow these steps:
 
 1. Create your own copy of this repo:
-   - Follow this link: [Create repo from template](https://github.com/new?template_name=project_build_a_rock_paper_scissors_game_python_init&template_owner=codelingdotdev)
+   - Follow this link: [Create repo from template](https://github.com/new?template_name=project_rock_paper_scissors_game_python_init&template_owner=codelingdotdev)
    - Or click _Use this template_ > _Create new repository_ button on this screen
 2. Give the repository a name (eg: rock_paper_scissors_game)
 3. Click the _Create Repository_ button
